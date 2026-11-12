@@ -1,0 +1,9 @@
+.env
+.env.*
+.fixtrack-secret
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db-wal
+*.db-shm
